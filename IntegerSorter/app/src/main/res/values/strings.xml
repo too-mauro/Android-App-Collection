@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Integer Sorter</string>
+    <string name="action_settings">Settings</string>
+    <string name="infile">Enter the input file name</string>
+    <string name="outfile">Enter the output file name</string>
+    <string name="sortlist">Sort!</string>
+    <string name="text_main">Data will appear here.</string>
+</resources>
