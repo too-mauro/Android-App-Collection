@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_fib">Fibonacci Number</string>
+    <string name="edit_number">Enter an integer value</string>
+    <string name="text_main">The Fibonacci number will appear here.</string>
+</resources>
