@@ -7,6 +7,8 @@ A collection of simple Android applications made in Java and Android Studio v3.1
 - **Display Photo**, an image viewer that takes web links
 - **Integer Sorter**, a number sorter
 - **Fibonacci**, a Fibonacci-value calculator
+- **Towers of Hanoi**, a step-by-step instructor to complete the famous puzzle
+- **String List**, a demonstration of manipulating lists
 
 ## General Information
 - An Android device or emulator running Nougat (v7.0) or higher is recommended for use to ensure these projects work properly.

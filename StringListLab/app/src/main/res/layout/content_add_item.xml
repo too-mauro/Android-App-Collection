@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+app:layout_behavior="@string/appbar_scrolling_view_behavior"
+tools:context="com.example.halper.stringlistlab.AddItemActivity"
+tools:showIn="@layout/activity_add_item">
+
+<EditText
+    android:id="@+id/edit_item"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:hint="@string/edit_item" />
+
+<EditText
+    android:id="@+id/edit_position"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:inputType="number"
+    android:hint="@string/edit_position" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:onClick="addItem"
+    android:text="@string/button_add" />
+
+</LinearLayout>

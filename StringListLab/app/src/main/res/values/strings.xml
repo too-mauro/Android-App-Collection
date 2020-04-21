@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">String List Lab</string>
+    <string name="action_settings">Settings</string>
+    <string name="initial_message">Messages will go here.</string>
+    <string name="opt1">Show list</string>
+    <string name="opt2">Show list in reverse order</string>
+    <string name="opt3">Show size of list</string>
+    <string name="opt4">Insert a string</string>
+    <string name="opt5">Remove a string</string>
+    <string name="opt6">Remove all strings</string>
+    <string name="edit_item">Enter new item</string>
+    <string name="edit_position">Enter position</string>
+    <string name="button_add">Add the Item</string>
+    <string name="title_activity_add_item">Add Item Activity</string>
+    <string name="title_activity_remove_item">Remove Item Activity</string>
+    <string name="remove_position">Enter the position</string>
+    <string name="button_remove">Remove the item</string>
+</resources>
